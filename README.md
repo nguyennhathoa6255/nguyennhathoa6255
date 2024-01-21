@@ -5,5 +5,5 @@ I am Hoa and I am interested in all things data and machine learning systems. As
 Check out my [Portfolio](https://nguyennhathoa6255.wixsite.com/hoasportfolio) for all of my projects, skills, and achievements.
 
 
-#  My Stats:
+##  My Stats
 ![](https://github-readme-stats.vercel.app/api?username=nguyennhathoa6255&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
