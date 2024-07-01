@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my Github Profile! 👋
 
-I am Hoa and I am interested in all things data and machine learning systems. As a third‑year Data Science student at the Ho Chi Minh University of Banking, I am looking for an Intern position related to the field of data science and data analysis to apply my skills in analytics and my passion for drawing valuable insights from data.
+I am Hoa and I am interested in all things data and machine learning systems. As a final‑year Data Science student at the Ho Chi Minh University of Banking.
 
 Check out my [Portfolio](https://nguyennhathoa6255.github.io/) for all of my projects, skills, and achievements.
 
